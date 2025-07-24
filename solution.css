@@ -1,0 +1,23 @@
+/* Group */
+body{
+  background-color: black;
+}
+.done{
+  color: aqua;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 30px;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 200px;
+}
+.donee{
+  color: aqua;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 30px;
+  font-size: 20px;
+  text-align: center;
+}
